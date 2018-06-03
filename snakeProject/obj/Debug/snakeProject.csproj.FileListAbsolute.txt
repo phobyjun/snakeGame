@@ -1,0 +1,10 @@
+c:\users\junseok\source\repos\snakeProject\snakeProject\bin\Debug\snakeProject.exe.config
+c:\users\junseok\source\repos\snakeProject\snakeProject\bin\Debug\snakeProject.exe
+c:\users\junseok\source\repos\snakeProject\snakeProject\bin\Debug\snakeProject.pdb
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.csprojResolveAssemblyReference.cache
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.Properties.Resources.resources
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.csproj.GenerateResource.cache
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.csproj.CoreCompileInputs.cache
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.exe
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.pdb
+c:\users\junseok\source\repos\snakeProject\snakeProject\obj\Debug\snakeProject.snake.resources
